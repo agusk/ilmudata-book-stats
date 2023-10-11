@@ -9,4 +9,4 @@ Dalam era digital yang penuh dengan data, kemampuan untuk memahami dan menerapka
 * Google Play Books: https://play.google.com/store/books/details?id=RRvcEAAAQBAJ 
 * Lulu: https://www.lulu.com/shop/agus-kurniawan/statistik-praktis-untuk-developer-dan-data-science/ebook/product-kvnjg77.html  
 
-Untuk pengguna iOs, silakan gunakan Google Play Books. Kemudian dapat membeli buku ini melalui Google Play Books. Alternatif lain, pembelian buku dapat dilakukan melalui website Google Play Books.
+Untuk pengguna iOS, silakan gunakan Google Play Books. Kemudian dapat membeli buku ini melalui Google Play Books. Alternatif lain, pembelian buku dapat dilakukan melalui website Google Play Books.
